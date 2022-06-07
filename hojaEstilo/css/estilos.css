@@ -1,12 +1,15 @@
 *{
     color:crimson;
  }
+ #primeropai{
+     background-color: blueviolet;
+ }
 
  .fondoverde{
      background-color: green;
  }
 @media screen and(max-width: 500px){
-    h2{
+    h1{
         color:blueviolet
     }
 }
